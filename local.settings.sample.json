@@ -1,0 +1,13 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "FUNCTIONS_WORKER_RUNTIME": "python",
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "STORAGE_CONNECTION_STRING": "UseDevelopmentStorage=true",
+    "AZURE_TENANT_ID": "<tenant-id>",
+    "API_CLIENT_ID": "<app-registration-client-id>",
+    "AZURE_SUBSCRIPTION_ID": "<subscription-id>",
+    "TARGET_RESOURCE_GROUP": "<resource-group-for-vnets>",
+    "DEFAULT_LOCATION": "westus2"
+  }
+}

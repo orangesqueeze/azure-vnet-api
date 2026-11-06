@@ -1,0 +1,8 @@
+local.settings.json
+__pycache__/
+.venv/
+.python_packages/
+.pytest_cache/
+.terraform/
+*.tfstate*
+.terraform.lock.hcl.bak

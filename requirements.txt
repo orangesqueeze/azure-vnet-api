@@ -1,0 +1,5 @@
+azure-functions
+azure-identity
+azure-mgmt-network
+azure-data-tables
+PyJWT[crypto]
